@@ -17,6 +17,8 @@ npm i -g follow-url
 Usage
 ------
 
+![follow-url](https://i.imgur.com/TVboqlg.png)
+
 ```bash
 $ follow https://bit.ly/2nphub2
 
