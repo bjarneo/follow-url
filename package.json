@@ -4,7 +4,7 @@
   "description": "Follow an URL redirect chain to the end of life",
   "main": "index.js",
   "bin": {
-    "follow": "./cli"
+    "follow": "./cli.js"
   },
   "keywords": [
     "long",
