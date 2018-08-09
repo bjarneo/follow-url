@@ -1,0 +1,34 @@
+{
+  "name": "follow-url",
+  "version": "1.0.0",
+  "description": "Follow an URL redirect chain to the end of life",
+  "main": "index.js",
+  "bin": {
+    "follow": "./cli"
+  },
+  "keywords": [
+    "long",
+    "url",
+    "shortener",
+    "location",
+    "follow",
+    "redirect",
+    "chain"
+  ],
+  "author": "Bjarne Oeverli",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bjarneo/follow-url.git"
+  },
+  "homepage": "https://github.com/bjarneo/follow-url",
+  "bugs": {
+    "url": "https://github.com/bjarneo/follow-url/issues"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "cli-table": "^0.3.1",
+    "long-url": "^1.0.2",
+    "meow": "^5.0.0"
+  }
+}
