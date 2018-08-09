@@ -27,7 +27,6 @@
   },
   "dependencies": {
     "chalk": "^2.4.1",
-    "cli-table": "^0.3.1",
     "long-url": "^1.0.2",
     "meow": "^5.0.0"
   }
