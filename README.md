@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bjarneo/follow-url/master/logo.png" alt="follow-url">
+  <img src="https://i.imgur.com/xwkrIQI.png" alt="follow-url">
 </p>
 
 <h1 align="center">
