@@ -1,6 +1,6 @@
 {
   "name": "follow-url",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Follow an URL redirect chain to the end of life",
   "main": "index.js",
   "bin": {
